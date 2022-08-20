@@ -17,7 +17,7 @@ const atext6="Telah meraih beberapa prestasi, seperti: Juara Beregu Putri di BAD
 ;
 const atext7="Meraih medali perunggu di ASEAN Games 2018 dan  Michael Hartono Menjadi Atlet tertua di cabang olahraga tersebut." ;
 const atext8="Pada Oktober 2009, UNESCO menetapkan batik Indonesia sebagai Masterpiece of Oral and Intangible Cultural Heritage of Humanity.<br></br><br></br>Sebagai bagian dari pengakuan ini, UNESCO menegaskan bahwa Indonesia melestarikan warisannya. Tanggal 2 Oktober 2009 telah ditetapkan oleh pemerintah Indonesia sebagai Hari Batik Nasional.";
-const atext9="Website ini dibuat dengan tujuan mengedukasi dan memikat berbagi elemen masyarakat, baik penduduk lokal, maupun mancanegara";
+const atext9="IndoFacts adalah platform tempat Anda dapat menemukan fakta menarik dan mendidik tentang negara Indonesia, baik kepada penduduk lokal ataupun mancanegara.";
 
 
 const header1="Indonesia has 34 Province and 17000+ Islands";
@@ -38,7 +38,7 @@ const text5="It was first discovered in Bengkulu during an expedition led by Tho
 const text6="Has achieved several accomplishments, such as:The Winner of Women Team at BADMINTON ASIA TEAM CHAMPIONSHIP and The Winner of MD at ALL ENGLAND";
 const text7="Won a Bronze Medal at the 2018 ASIAN Games and Michael Hartono became the oldest athlete in the sport.";
 const text8="In October 2009, UNESCO designated Indonesian batik as a Masterpiece of Oral and Intangible Cultural Heritage of Humanity.<br><br>As part of this recognition, UNESCO insists that Indonesia preserve its heritage. October 2, 2009 has been designated by the Indonesian government as the National Batik Day.";
-const text9="This website with the aim of educating and attracting various elements of society, both local and foreign";
+const text9="IndoFacts is a platform where you can find interesting and educational facts about Indonesia, both to locals and foreigners.";
 
 window.onscroll = function() {myFunction()};
 
