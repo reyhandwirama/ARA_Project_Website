@@ -1,4 +1,4 @@
-const aheader1="Indonesia memiliki 34 provinsi dan 1700+ pulau";
+const aheader1="Indonesia memiliki 34 provinsi dan 17000+ pulau";
 const aheader2="Candi Borobudur Masuk Ke Dalam Situs Warisan Budaya Dunia";
 const aheader3="Mandalika International Circuit di Indonesia";
 const aheader4="Bali Bukan Negara, Tapi Provinsi di Indonesia";
