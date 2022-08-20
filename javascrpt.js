@@ -13,8 +13,7 @@ const atext2="Candi Buddha terbesar di dunia ini  termasuk ke dalam situs Warisa
 const atext3="Berada di dekat Pantai Mandalika, pintu gerbang ke sebagian besar kota besar, dan hanya 30 menit dari Bandara Internasional Zainuddin Abdul Madjid Lombok.";
 const atext4="Provinsi Dengan Ibukota Denpasar, menjadi destinasi wisata impian banyak orang";
 const atext5="Pertama kali ditemukan di Bengkulu ketika sedang ekspedisi yang dipimpin oleh Thomas Stamford Raffles dan Dr. Joseph Arnold";
-const atext6="Telah meraih beberapa prestasi, seperti: Juara Beregu Putri di BADMINTON ASIA TEAM CHAMPIONSHIP dan Pemenang MD di ALL ENGLAND"
-;
+const atext6="Telah meraih beberapa prestasi, seperti: Juara Beregu Putri di BADMINTON ASIA TEAM CHAMPIONSHIP dan Pemenang MD di ALL ENGLAND";
 const atext7="Meraih medali perunggu di ASEAN Games 2018 dan  Michael Hartono Menjadi Atlet tertua di cabang olahraga tersebut." ;
 const atext8="Pada Oktober 2009, UNESCO menetapkan batik Indonesia sebagai Masterpiece of Oral and Intangible Cultural Heritage of Humanity.<br></br><br></br>Sebagai bagian dari pengakuan ini, UNESCO menegaskan bahwa Indonesia melestarikan warisannya. Tanggal 2 Oktober 2009 telah ditetapkan oleh pemerintah Indonesia sebagai Hari Batik Nasional.";
 const atext9="IndoFacts adalah platform tempat Anda dapat menemukan fakta menarik dan mendidik tentang negara Indonesia, baik kepada penduduk lokal ataupun mancanegara.";
